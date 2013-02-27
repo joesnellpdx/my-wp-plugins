@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: JSPDX TMM Events
-Description: Create and events list for TMM
+Description: Create and events list for Thoroughly Modern Marketing (http://www.tmmpdx.com)
 Version: 1.0
 Author: Joe Snell
 Author URI: http://www.joesnellpdx.com
-Plugin URI: http://www.joesnellpdx.com
+Plugin URI: https://github.com/joesnellpdx/my-wp-plugins/tree/master/jspdx-tmm-events
 */
 
 /**
