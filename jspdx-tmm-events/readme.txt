@@ -25,6 +25,11 @@ https://github.com/joesnellpdx/my-wp-plugins/tree/master/jspdx-tmm-events
 = 0.1 =
 * Initial upload
 
+== Screenshots ==
+
+1. Widget editing interface.
+2. JSPDX TMM Events widget deployed
+
 == Credits ==
 
 My initial source for building this plugin was derived from the Simple Link List Widget by jimmywb and frankieroberto
