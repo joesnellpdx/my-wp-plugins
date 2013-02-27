@@ -24,3 +24,7 @@ https://github.com/joesnellpdx/my-wp-plugins/tree/master/jspdx-tmm-events
 
 = 0.1 =
 * Initial upload
+
+== Credits ==
+
+My initial source for building this plugin was derived from the Simple Link List Widget by jimmywb and frankieroberto
